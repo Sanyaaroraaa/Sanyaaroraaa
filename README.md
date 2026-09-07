@@ -93,9 +93,9 @@ Hi, I'm **Sanya Arora** (she/her). I build polished full-stack web apps that sit
 
 ## `~/` the numbers
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanyaaroraaa&show_icons=true&hide_rank=false&include_all_commits=true&bg_color=0A101F&title_color=A78BFA&text_color=C9D4E8&icon_color=22D3EE&border_color=223052" width="480" alt="GitHub statistics">
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanyaaroraaa&background=0A101F&border=223052&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D4E8&dates=8A97B8" height="165" alt="Streak stats">
+<img src="https://github-readme-stats.shion.dev/api?username=Sanyaaroraaa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=Sanyaaroraaa&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -106,14 +106,14 @@ Hi, I'm **Sanya Arora** (she/her). I build polished full-stack web apps that sit
 ## `~/` selected work
 
 <a href="https://github.com/insharahn/studyloop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=insharahn&repo=studyloop&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE&show_owner=true" width="45%" />
+  <img src="https://github-readme-stats-tau-ten-45.vercel.app/api/pin/?username=insharahn&repo=studyloop&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE&show_owner=true" width="45%" />
 </a>
 <a href="https://github.com/Sanyaaroraaa/NOVA-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanyaaroraaa&repo=NOVA-AI&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE" width="45%" />
+  <img src="https://github-readme-stats-tau-ten-45.vercel.app/api/pin/?username=Sanyaaroraaa&repo=NOVA-AI&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE" width="45%" />
 </a>
 <br/><br/>
 <a href="https://github.com/Sanyaaroraaa/Interactive-Calendarr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanyaaroraaa&repo=Interactive-Calendarr&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE" width="45%" />
+  <img src="https://github-readme-stats-tau-ten-45.vercel.app/api/pin/?username=Sanyaaroraaa&repo=Interactive-Calendarr&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE" width="45%" />
 </a>
 
 </div>
