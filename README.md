@@ -12,16 +12,16 @@
 <br>
 
 <!-- SOCIALS -->
-<a href="https://sanyaarora7.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://sanyaarora7.vercel.app/resume.pdf?v=1.2"><img src="https://img.shields.io/badge/Resume-4A5568?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
+<a href="https://www.linkedin.com/in/sanya-aroraa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://cal.com/sanya-arora/30min"><img src="https://img.shields.io/badge/Book_Call-22D3EE?style=for-the-badge&logo=googlecalendar&logoColor=black" alt="Book a Call"></a>
 <a href="mailto:asanya765@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://leetcode.com/u/Sanyaaroraaa"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://www.codechef.com/users/class_wisp_26"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
 </div>
 
 ---
 
-<div>
+<div align="center">
 
 ## `~/` whoami
 
@@ -30,7 +30,6 @@
 Hi, I'm **Sanya Arora** (she/her). I build polished full-stack web apps that sit right between clean UI and solid engineering, and I solve problems for fun when neither of those is cooperating.
 
 - Currently building **[StudyLoop](https://github.com/insharahn/studyloop)** & **[NovaAI](https://github.com/Sanyaaroraaa/NOVA-AI)**
-- Portfolio: **[sanyaarora7.vercel.app](https://sanyaarora7.vercel.app)**
 - Learning **RAG Pipelines & Gemini 2.5 Flash**
 - Consistent in **DSA (600+ problems solved, Peak LeetCode Rating: 1803)**
 - **Fun facts:**
@@ -143,7 +142,7 @@ Hi, I'm **Sanya Arora** (she/her). I build polished full-stack web apps that sit
         <li><b>600+ DSA Problems Solved</b> (LeetCode, HackerRank, CodeChef, GFG)</li>
         <li><b>Peak Contest Rating:</b> <code>1803</code> (LeetCode)</li>
         <li><b>HackerRank:</b> <code>5⭐</code> Problem Solving</li>
-        <li><b>CodeChef:</b> <code>2⭐</code> Contestant</li>
+        <li><b>CodeChef:</b> <code>2⭐</code> Contestant (class_wisp_26)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
