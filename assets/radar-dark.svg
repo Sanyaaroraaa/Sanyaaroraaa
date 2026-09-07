@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440" width="440" height="440">
+  <style>
+    .bg { fill: #0A101F; rx: 16px; }
+    .grid { stroke: #223052; stroke-width: 1.5; fill: none; }
+    .axis { stroke: #223052; stroke-width: 1; }
+    .area { fill: rgba(167, 139, 250, 0.35); stroke: #A78BFA; stroke-width: 2.5; }
+    .point { fill: #22D3EE; r: 4; }
+    .text { fill: #C9D4E8; font-family: 'JetBrains Mono', monospace, sans-serif; font-size: 12px; font-weight: 600; text-anchor: middle; }
+    .title { fill: #A78BFA; font-family: 'JetBrains Mono', monospace, sans-serif; font-size: 14px; font-weight: bold; text-anchor: middle; }
+  </style>
+
+  <rect width="440" height="440" class="bg"/>
+  <text x="220" y="32" class="title">~/ skill radar</text>
+
+  <!-- Radar Grid Webs -->
+  <polygon points="220,90 324,150 324,270 220,330 116,270 116,150" class="grid"/>
+  <polygon points="220,120 298,165 298,255 220,300 142,255 142,165" class="grid"/>
+  <polygon points="220,150 272,180 272,240 220,270 168,240 168,180" class="grid"/>
+  <polygon points="220,180 246,195 246,225 220,240 194,225 194,195" class="grid"/>
+
+  <!-- Axes -->
+  <line x1="220" y1="210" x2="220" y2="90" class="axis"/>
+  <line x1="220" y1="210" x2="324" y2="150" class="axis"/>
+  <line x1="220" y1="210" x2="324" y2="270" class="axis"/>
+  <line x1="220" y1="210" x2="220" y2="330" class="axis"/>
+  <line x1="220" y1="210" x2="116" y2="270" class="axis"/>
+  <line x1="220" y1="210" x2="116" y2="150" class="axis"/>
+
+  <!-- Data Polygon -->
+  <polygon points="220,92 319,153 314,264 220,320 128,263 137,162" class="area"/>
+
+  <!-- Data Points -->
+  <circle cx="220" cy="92" r="4" class="point"/>
+  <circle cx="319" cy="153" r="4" class="point"/>
+  <circle cx="314" cy="264" r="4" class="point"/>
+  <circle cx="220" cy="320" r="4" class="point"/>
+  <circle cx="128" cy="263" r="4" class="point"/>
+  <circle cx="137" cy="162" r="4" class="point"/>
+
+  <!-- Labels -->
+  <text x="220" y="75" class="text">DSA &amp; C++ (98%)</text>
+  <text x="350" y="145" class="text">MERN Stack (95%)</text>
+  <text x="350" y="280" class="text">RAG &amp; Gemini AI (90%)</text>
+  <text x="220" y="352" class="text">HTML &amp; CSS / UI (92%)</text>
+  <text x="80" y="280" class="text">MongoDB &amp; SQL (88%)</text>
+  <text x="80" y="145" class="text">Python &amp; APIs (80%)</text>
+</svg>
