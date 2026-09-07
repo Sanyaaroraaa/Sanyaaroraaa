@@ -82,13 +82,9 @@ Hi, I'm **Sanya Arora** (she/her). I build polished full-stack web apps that sit
 
 ## `~/` contribution calendar
 
-<!-- Snake eats the contribution graph -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanyaaroraaa/Sanyaaroraaa/output/github-contribution-grid-snake.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanyaaroraaa/Sanyaaroraaa/output/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/Sanyaaroraaa/Sanyaaroraaa/output/github-contribution-grid-snake.svg" width="100%" alt="snake eating the contribution graph">
-</picture>
-
+<!-- 3D Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanyaaroraaa&theme=react-dark&bg_color=0A101F&color=A78BFA&line=22D3EE&point=A78BFA&area=true&hide_border=true" width="90%" alt="3D contribution activity calendar">
+<br>
 </div>
 
 ---
