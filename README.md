@@ -21,11 +21,11 @@
 
 ---
 
+<div>
+
 ## `~/` whoami
 
-```console
-$ cat about.txt
-```
+<pre><code>$ cat about.txt</code></pre>
 
 Hi, I'm **Sanya Arora** (she/her). I build polished full-stack web apps that sit right between clean UI and solid engineering, and I solve problems for fun when neither of those is cooperating.
 
@@ -38,6 +38,8 @@ Hi, I'm **Sanya Arora** (she/her). I build polished full-stack web apps that sit
   - 🚀 **Cannot stop adding "just one more feature" right when an app is ready to ship.**
   - 📓 **Built a spiral-notebook task planner because standard to-do apps look too much like Excel spreadsheets.**
   - ☕ **Always down to debate whether Tailwind counts as "real CSS" over a cup of coffee.**
+
+</div>
 
 <br>
 
@@ -105,16 +107,25 @@ Hi, I'm **Sanya Arora** (she/her). I build polished full-stack web apps that sit
 
 ## `~/` selected work
 
-<a href="https://github.com/insharahn/studyloop">
-  <img src="https://github-readme-stats-tau-ten-45.vercel.app/api/pin/?username=insharahn&repo=studyloop&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE&show_owner=true" width="45%" />
-</a>
-<a href="https://github.com/Sanyaaroraaa/NOVA-AI">
-  <img src="https://github-readme-stats-tau-ten-45.vercel.app/api/pin/?username=Sanyaaroraaa&repo=NOVA-AI&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE" width="45%" />
-</a>
-<br/><br/>
-<a href="https://github.com/Sanyaaroraaa/Interactive-Calendarr">
-  <img src="https://github-readme-stats-tau-ten-45.vercel.app/api/pin/?username=Sanyaaroraaa&repo=Interactive-Calendarr&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE" width="45%" />
-</a>
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/insharahn/studyloop">
+    <img src="https://github-readme-stats-tau-ten-45.vercel.app/api/pin/?username=insharahn&repo=studyloop&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE&show_owner=true" width="100%" />
+  </a>
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/Sanyaaroraaa/NOVA-AI">
+    <img src="https://github-readme-stats-tau-ten-45.vercel.app/api/pin/?username=Sanyaaroraaa&repo=NOVA-AI&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE" width="100%" />
+  </a>
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/Sanyaaroraaa/Interactive-Calendarr">
+    <img src="https://github-readme-stats-tau-ten-45.vercel.app/api/pin/?username=Sanyaaroraaa&repo=Interactive-Calendarr&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE" width="100%" />
+  </a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -122,15 +133,30 @@ Hi, I'm **Sanya Arora** (she/her). I build polished full-stack web apps that sit
 
 <div align="center">
 
-## `~/` achievements
+## `~/` achievements & milestones
 
-- **v23.0** — **600+ DSA problems solved** (LeetCode, HackerRank, CodeChef, GFG)
-- **v22.2** — peak LeetCode contest rating: **1803**
-- **v21.5** — **StudyLoop**: Ranked **#26 globally on Product Hunt** & **Top 50 / Category Winner @ DoraHacks 2.0**
-- **v21.0** — **SWOC 2026**: ranked **16th globally** for open-source contributions
-- **v20.2** — **Top 15, Best Pitch** @ Sheryians Coding School hackathon
-- **v19.0** — HackerRank Problem Solving: **5⭐**
-- **v18.5** — CodeChef: **2⭐**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧩 Competitive Programming</h4>
+      <ul>
+        <li><b>600+ DSA Problems Solved</b> (LeetCode, HackerRank, CodeChef, GFG)</li>
+        <li><b>Peak Contest Rating:</b> <code>1803</code> (LeetCode)</li>
+        <li><b>HackerRank:</b> <code>5⭐</code> Problem Solving</li>
+        <li><b>CodeChef:</b> <code>2⭐</code> Contestant</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏆 Open Source & Hackathons</h4>
+      <ul>
+        <li><b>SWOC 2026:</b> Ranked <code>#16 Globally</code> in Open Source</li>
+        <li><b>Product Hunt:</b> StudyLoop Ranked <code>#26 Globally</code></li>
+        <li><b>DoraHacks 2.0:</b> Top 50 &amp; Category Winner</li>
+        <li><b>Sheryians Coding School:</b> Top 15 &amp; Best Pitch</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -138,9 +164,9 @@ Hi, I'm **Sanya Arora** (she/her). I build polished full-stack web apps that sit
 
 <div align="center">
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sanyaaroraaa&theme=flat" height="150" alt="trophy graph">
+<img src="https://github-trophies.vercel.app/?username=Sanyaaroraaa&theme=radical&title=Commits,Repositories,Followers,PullRequest,Issues,Reviews,MultipleOrganizations&margin-w=15" alt="GitHub Trophies" />
 
 </div>
 
