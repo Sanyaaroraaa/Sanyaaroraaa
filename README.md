@@ -60,14 +60,14 @@ Hi, I'm **Sanya Arora** (she/her). I build polished full-stack web apps that sit
 <td width="50%" align="center" valign="middle">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/radar-dark.svg">
 <img src="assets/radar-dark.svg" width="440" alt="skill radar chart">
 </picture>
 </td>
 <td width="50%" align="center" valign="middle">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-dark.svg">
 <img src="assets/radar-langs-dark.svg" width="440" alt="language radar chart">
 </picture>
 </td>
@@ -82,9 +82,9 @@ Hi, I'm **Sanya Arora** (she/her). I build polished full-stack web apps that sit
 
 ## `~/` contribution calendar
 
-<!-- 3D Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanyaaroraaa&theme=react-dark&bg_color=0A101F&color=A78BFA&line=22D3EE&point=A78BFA&area=true&hide_border=true" width="90%" alt="3D contribution activity calendar">
-<br>
+<!-- 3D isometric calendar -->
+<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
+
 </div>
 
 ---
