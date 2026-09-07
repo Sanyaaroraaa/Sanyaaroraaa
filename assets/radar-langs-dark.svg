@@ -12,7 +12,7 @@
   <rect width="440" height="440" class="bg"/>
   <text x="220" y="32" class="title">~/ language radar</text>
 
-  <!-- Radar Grid Webs -->
+  <!-- Radar Grid Webs (25%, 50%, 75%, 100%) -->
   <polygon points="220,90 324,150 324,270 220,330 116,270 116,150" class="grid"/>
   <polygon points="220,120 298,165 298,255 220,300 142,255 142,165" class="grid"/>
   <polygon points="220,150 272,180 272,240 220,270 168,240 168,180" class="grid"/>
@@ -26,22 +26,22 @@
   <line x1="220" y1="210" x2="116" y2="270" class="axis"/>
   <line x1="220" y1="210" x2="116" y2="150" class="axis"/>
 
-  <!-- Data Polygon -->
-  <polygon points="220,92 319,153 311,263 220,306 131,261 134,161" class="area"/>
+  <!-- Data Polygon (Scaled: C++ 94%, JS 88%, HTML/CSS 85%, Python 70%, C 75%, Java 40%) -->
+  <polygon points="220,97 311,157 308,261 220,294 142,255 178,186" class="area"/>
 
   <!-- Data Points -->
-  <circle cx="220" cy="92" r="4" class="point"/>
-  <circle cx="319" cy="153" r="4" class="point"/>
-  <circle cx="311" cy="263" r="4" class="point"/>
-  <circle cx="220" cy="306" r="4" class="point"/>
-  <circle cx="131" cy="261" r="4" class="point"/>
-  <circle cx="134" cy="161" r="4" class="point"/>
+  <circle cx="220" cy="97" r="4" class="point"/>
+  <circle cx="311" cy="157" r="4" class="point"/>
+  <circle cx="308" cy="261" r="4" class="point"/>
+  <circle cx="220" cy="294" r="4" class="point"/>
+  <circle cx="142" cy="255" r="4" class="point"/>
+  <circle cx="178" cy="186" r="4" class="point"/>
 
   <!-- Labels -->
-  <text x="220" y="75" class="text">C++ (40%)</text>
-  <text x="350" y="145" class="text">JavaScript (35%)</text>
-  <text x="350" y="280" class="text">HTML / CSS (15%)</text>
-  <text x="220" y="352" class="text">Python (10%)</text>
-  <text x="80" y="280" class="text">MongoDB (NoSQL)</text>
-  <text x="80" y="145" class="text">SQL Queries</text>
+  <text x="220" y="75" class="text">C++ (94%)</text>
+  <text x="350" y="145" class="text">JavaScript (88%)</text>
+  <text x="350" y="280" class="text">HTML / CSS (85%)</text>
+  <text x="220" y="352" class="text">Python (70%)</text>
+  <text x="90" y="280" class="text">C (75%)</text>
+  <text x="90" y="145" class="text">Java (40%)</text>
 </svg>
