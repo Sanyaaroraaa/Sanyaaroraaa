@@ -14,7 +14,7 @@
 <!-- SOCIALS -->
 <a href="https://www.linkedin.com/in/sanya-aroraa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://cal.com/sanya-arora/30min"><img src="https://img.shields.io/badge/Book_Call-22D3EE?style=for-the-badge&logo=googlecalendar&logoColor=black" alt="Book a Call"></a>
-<a href="asanya795@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:asanya795@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://leetcode.com/u/sanyaarora_cs"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 <a href="https://www.codechef.com/users/class_wisp_26"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
 </div>
