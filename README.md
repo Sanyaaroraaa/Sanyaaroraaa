@@ -110,17 +110,17 @@ Hi, I'm **Sanya Arora** (she/her). I build polished full-stack web apps that sit
 <tr>
 <td width="33%" align="center" valign="top">
   <a href="https://github.com/insharahn/studyloop">
-    <img src="https://github-readme-stats-tau-ten-45.vercel.app/api/pin/?username=insharahn&repo=studyloop&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE&show_owner=true" width="100%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=insharahn&repo=studyloop&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE&show_owner=true" width="100%" />
   </a>
 </td>
 <td width="33%" align="center" valign="top">
   <a href="https://github.com/Sanyaaroraaa/NOVA-AI">
-    <img src="https://github-readme-stats-tau-ten-45.vercel.app/api/pin/?username=Sanyaaroraaa&repo=NOVA-AI&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE" width="100%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Sanyaaroraaa&repo=NOVA-AI&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE" width="100%" />
   </a>
 </td>
 <td width="33%" align="center" valign="top">
   <a href="https://github.com/Sanyaaroraaa/Interactive-Calendarr">
-    <img src="https://github-readme-stats-tau-ten-45.vercel.app/api/pin/?username=Sanyaaroraaa&repo=Interactive-Calendarr&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE" width="100%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Sanyaaroraaa&repo=Interactive-Calendarr&theme=dark&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE" width="100%" />
   </a>
 </td>
 </tr>
